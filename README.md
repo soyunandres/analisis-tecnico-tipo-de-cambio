@@ -8,6 +8,7 @@ Workspace en R para realizar un análisis técnico del tipo de cambio USD/MXN ba
 4. Instalar Visual Studio Code (VSC)
 5. Instalar extensiones para correr código de R en VSC
 6. Instalar paquetes en R
+    - box
 7. Instalar Jenkins
 ## Conocimientos requeridos
 * Política de versionamiento
@@ -16,9 +17,16 @@ Workspace en R para realizar un análisis técnico del tipo de cambio USD/MXN ba
     - _Git Branch Naming Convention_
     - _Conventional commit_
 * _Task-oriented documentation approach_
+* Manejo de Wiki
 * Manejo de catálogo de errores
 * Sintáxis Gherkin
 * _Markdown_ y _R-markdown_
 * Programación en R
 * Estadística descriptiva e inferencial 
+* Patrones de diseño: 
+    - Fábrica de características
+    - Cascada
+    - Transformación
+    - _Checkpoint_
+* TDD
 
