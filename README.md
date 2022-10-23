@@ -17,6 +17,7 @@ Workspace en R para realizar un análisis técnico del tipo de cambio USD/MXN ba
     - Versionamiento semántico
     - _Git Branch Naming Convention_
     - _Conventional commit_
+    - _Git Graph_
 * _Task-oriented documentation approach_
 * Manejo de Wiki
 * Manejo de catálogo de errores
@@ -25,11 +26,14 @@ Workspace en R para realizar un análisis técnico del tipo de cambio USD/MXN ba
 * Programación en R
     - Creación de _workspace_
     - _tryCatch_ sintáxis
+    - TDD
+        * _Assertions_
+        * _Package testit_
 * Estadística descriptiva e inferencial 
 * Patrones de diseño: 
     - Fábrica de características
     - Cascada
     - Transformación
     - _Checkpoint_
-* TDD
+
 
