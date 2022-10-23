@@ -4,10 +4,12 @@ Workspace en R para realizar un análisis técnico del tipo de cambio USD/MXN ba
 0. Instalar Git
 1. Crear cuenta en Github
 2. Instalar Github Desktop
+3. Crear repositorio en Github y clonarlo en local
 3. Instalar R
 4. Instalar Visual Studio Code (VSC)
 5. Instalar extensiones para correr código de R en VSC
     - Github _preview_
+6. Crear _workspace_ de R
 6. Instalar paquetes en R
     - box
 7. Instalar Jenkins
